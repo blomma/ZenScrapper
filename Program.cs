@@ -1,4 +1,5 @@
 ﻿using System.Net;
+
 using HtmlAgilityPack;
 
 if (args.Length == 0)
